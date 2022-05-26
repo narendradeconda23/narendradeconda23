@@ -1,4 +1,4 @@
-- 👋 Hi, I am Marendra Deconda, a Research Scholar from the Electrical Engineering department, IIT Madras.
+- 👋 Hi, I am Narendra Deconda, a Research Scholar from the Electrical Engineering department, IIT Madras.
 - 👀 My interests are Signal Processing and Wireless Communications.
 - 🌱 I am working on Receiver Equalization and Channel Estimation for OTFS systems.
 - 💞️ I’m looking to collaborate on any problems that fit into my area of interests.
